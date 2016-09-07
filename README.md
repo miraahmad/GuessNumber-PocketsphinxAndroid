@@ -15,4 +15,4 @@ and I change the button's events to speech input.
 
 =====
 
-Developed as a learning process to understand Pockersphinx on Android.
+Developed as a learning process to understand Pocketsphinx on Android.
