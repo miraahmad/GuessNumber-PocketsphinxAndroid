@@ -1,0 +1,12 @@
+#JSGF V1.0;
+
+grammar digits;
+
+<n1> = (one | two | three | four | five | six | seven | eight | nine);
+<n2> = (ten | eleven | twelve | thirteen | fourteen | fifteen | sixteen | seventeen | eighteen | nineteen) | (twenty | thirty | forty | fifty) [<n1>];
+
+<command> = check;
+
+public <query> = (<n2>|<n1>) | (<command>);
+
+

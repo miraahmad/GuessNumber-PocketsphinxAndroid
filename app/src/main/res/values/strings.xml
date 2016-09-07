@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Guess Number</string>
+    <string name="text_loading">loading...</string>
+    <string name="button_check">CHECK</string>
+    <string name="text_guess">Guess the number!</string>
+    <string name="text_congrats">Congratulations! You guessed in </string>
+    <string name="text_tries">tries!</string>
+
+    <string name="kws_caption">Say \"play game\" to begin.</string>
+    <string name="menu_caption">Choose a number between 1 to 50.</string>
+    <string name="digits_caption">To try recognition of digits: say something like \"one two three four five\".</string>
+    <string name="forecast_caption">To try recognition of a weather forecast like \"sunny spells on Wednesday\".</string>
+    <string name="phone_caption">To try phonetic recognition say anything.</string>
+    <string name="btn_check">CHECK</string>
+    <string name="choose_number">Choose a number between 1 to 50</string>
+</resources>
